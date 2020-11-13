@@ -1,0 +1,19 @@
+## [[redirects]]
+##  from = "/proof/YOUVISIT_INSTID/*"
+##  to = ":splat"
+##  status = 200
+
+## [[redirects]] 
+##  from = "/proof/YOUVISIT_INSTID_TEST/*"
+##  to = ":splat"
+
+
+##[[redirects]]
+##  from = "/proof/121419/*"
+##  to = ":splat"
+
+[build]
+    command = "gatsby build"
+    publish = "public"
+[dev]
+    command = "gatsby develop"
