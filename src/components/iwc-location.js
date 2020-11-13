@@ -68,7 +68,6 @@ const IWClocation = props => {
 
   return (
     <div>
-      {type}
       <div className="iwc" style={iwcstyle}>
         <a
           href="https://www.youvisit.com"
