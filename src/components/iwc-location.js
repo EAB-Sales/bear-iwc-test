@@ -34,7 +34,7 @@ const IWClocation = props => {
   // }g
 
   const iwcstyle = {
-    border: "5px solid pink",
+    // border: "5px solid pink",
     display: "block",
     width: `${width}`,
     height: `${height}px`,
@@ -95,7 +95,7 @@ const IWClocation = props => {
 export default IWClocation
 
 IWClocation.defaultProps = {
-  containerHeight: "300px",
+  containerHeight: "450px",
   containerWidth: "100%",
   title: "Launch Experience",
   linkType: "immersive",
