@@ -15,14 +15,14 @@ const IndexPage = ({ data }) => {
       <Link to="/two-page">Two on a Page</Link> |{" "}
       <Link to="/">Three on a Page</Link>
       <IWCLocation
-        containerHeight="351px"
+        containerHeight="500px"
         title="See Resident Life"
         institution="121317"
         dataType="inline-embed"
         location="143201"
       />
       <IWCLocation
-        containerHeight="351px"
+        containerHeight="500px"
         title="Dining Hall"
         institution="121317"
         dataType="inline-embed"
