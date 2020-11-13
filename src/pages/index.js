@@ -29,7 +29,7 @@ const IndexPage = ({ data }) => {
         location="143215"
       />
       <IWCLocation
-        containerHeight="373px"
+        containerHeight="500"
         title="Rec Center"
         institution="121317"
         dataType="inline-embed"
