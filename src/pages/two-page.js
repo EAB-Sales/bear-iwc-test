@@ -15,21 +15,21 @@ const TwoPage = ({ data }) => {
       <Link to="/two-page">Two on a Page</Link> |{" "}
       <Link to="/">Three on a Page</Link>
       <IWCLocation
-        containerHeight="500px"
+        containerHeight="500"
         title="See Resident Life"
         institution="121317"
         dataType="inline-embed"
         location="143215"
       />
       <IWCLocation
-        containerHeight="500px"
+        containerHeight="500"
         title="See Resident Life"
         institution="121317"
         dataType="inline-embed"
         location="143201"
       />
       {/* <IWC
-        containerHeight="500px"
+        containerHeight="500"
         title="Dining Hall"
         institution="121317"
         dataType="inline-embed"
